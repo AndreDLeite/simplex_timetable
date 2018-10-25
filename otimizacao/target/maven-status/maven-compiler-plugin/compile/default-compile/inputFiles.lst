@@ -1,6 +1,6 @@
-/Users/andreduarteleite/Projects/otimizacao/src/main/java/com/auth0/samples/bootfaces/Product.java
-/Users/andreduarteleite/Projects/otimizacao/src/main/java/com/auth0/samples/bootfaces/ProductRepository.java
-/Users/andreduarteleite/Projects/otimizacao/src/main/java/com/auth0/samples/bootfaces/Application.java
-/Users/andreduarteleite/Projects/otimizacao/src/main/java/com/auth0/samples/bootfaces/ProductController.java
-/Users/andreduarteleite/Projects/otimizacao/src/main/java/com/auth0/samples/bootfaces/ProductGradeController.java
-/Users/andreduarteleite/Projects/otimizacao/src/main/java/com/auth0/samples/bootfaces/ProductListController.java
+/Users/andreduarteleite/Projects/otimizacao/src/main/java/com/andreduarteleite/MateriaListController.java
+/Users/andreduarteleite/Projects/otimizacao/src/main/java/com/andreduarteleite/Materia.java
+/Users/andreduarteleite/Projects/otimizacao/src/main/java/com/andreduarteleite/MateriaRepository.java
+/Users/andreduarteleite/Projects/otimizacao/src/main/java/com/andreduarteleite/Application.java
+/Users/andreduarteleite/Projects/otimizacao/src/main/java/com/andreduarteleite/MateriaGradeController.java
+/Users/andreduarteleite/Projects/otimizacao/src/main/java/com/andreduarteleite/MateriaController.java
